@@ -13,4 +13,4 @@ Your task is to select each button from the `index.html` page that is labeled wi
  * [jQuery API](http://api.jquery.com/)
  * [Live Working Example](http://learn-co-curriculum.github.io/fe-jquery-exploring-methods/)
 
-<a href='https://learn.co/lessons/hs-intro-web-design-jquery-methods' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-jquery-methods' title='jQuery Methods'>jQuery Methods</a> on Learn.co and start learning to code for free.</p>
